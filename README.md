@@ -1,3 +1,4 @@
+![4 Sensores_bb](https://github.com/UzielCruzG/ESP32-Water-Quality-Monitoring/assets/83683151/611a872b-4028-4c61-ad79-390b3bee6755)
 ESP32 Water Quality Monitoring
 
 Este proyecto se enfoca en el monitoreo de la calidad del agua utilizando un ESP32 y varios sensores. Proporciona mediciones en tiempo real de parámetros importantes como temperatura, TDS, turbidez y pH, lo que permite una gestión más efectiva de los recursos hídricos.
