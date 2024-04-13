@@ -7,7 +7,7 @@ Contenido del Repositorio
     Esquema de conexión que muestra cómo conectar correctamente los sensores al ESP32.
 
 
-    Datos_Sensores.xlsx: Archivo que contiene datos de los sensores en entornos simulados.
+    Datos_Sensores.csv: Archivo que contiene datos de los sensores en entornos simulados.
 
 Instrucciones de Uso
 
