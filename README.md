@@ -8,12 +8,13 @@ Contenido del Repositorio
 
 
     Datos_Sensores.csv: Archivo que contiene datos de los sensores en entornos simulados.
+    Este contiene 60,000 registros en total, 6 clases de agua, 10,000 registros por cada clase
 
 Instrucciones de Uso
 
     Configuración del Hardware: Sigue el esquema de conexión proporcionado para conectar los sensores al ESP32.
 
-    Instalación del Software: Abre el archivo Servidor_Web.ino en el entorno de desarrollo Arduino IDE y carga el código en el ESP32.
+    Instalación del Software: Abre el archivo Terminado.ino en el entorno de desarrollo Arduino IDE y carga el código en el ESP32.
 
     Visualización de Datos: Abre el monitor serial en Arduino IDE para ver los datos de los sensores en tiempo real.
 
